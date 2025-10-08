@@ -1,0 +1,30 @@
+dessert_id,dessert_name,north,north_east,central,south
+khanom_krok,Khanom Krok,1,1,1,1
+khao_niew_mamuang,Khao Niew Mamuang / Mango Sticky Rice,0,0,1,0
+luk_chup,Luk Chup (Fruit-shaped Mung Bean Dessert),0,0,1,0
+lod_chong_nam_gati,Lod Chong Nam Gati (Coconut Milk Pandan Noodles),0,0,1,0
+thong_yip,Thong Yip (Pinched Gold Egg Yolks),0,0,1,0
+khanom_tuay,Khanom Tuay (Coconut milk custard in a small porcelain cup),0,0,1,0
+foi_thong,Foi Thong (Golden Threads),0,0,1,0
+khao_nook_nga,Khao Nook Nga (Sticky Rice with Sesame and Coconut),1,0,0,0
+khao_taen,Khao Taen (Crispy Rice Cake),1,1,0,0
+khanom_chan,Khanom Chan (Layer sweet cake),0,0,1,0
+khanom_kluea,Khanom Kluea (Fried Salty-Sweet Snack),1,0,0,0
+khanom_wong,Khanom Wong (Northern Thai Donut),1,0,0,0
+khao_mao_tod,Khao Mao Tod (Fried Green Rice with Banana Filling),1,0,0,0
+khao_lam,Khao Lam (Sticky Rice Cooked in Bamboo),1,1,0,0
+khanom_sai_sai,Khanom Sai Sai (Steamed Coconut Cream Dessert),1,0,0,1
+khao_tom_mud,Khao Tom Mud (Steamed Sticky Rice without Filling),1,1,1,1
+khao_jee,Khao Jee (Grilled Sticky Rice with Egg),0,1,0,0
+isan_kala_mae,Isan Kala Mae (Sticky Rice Caramel Candy),0,1,0,0
+khao_krieb_wao,Khao Krieb Wao (Grilled Rice Paper),0,1,0,0
+khao_niew_daeng,Khao Niew Daeng (Red Sticky Rice Dessert),0,1,0,0
+khanom_ba_bin,Khanom Ba Bin (Coconut Rice Cake),0,1,1,0
+khanom_tian,Khanom Tian (Sticky Rice Flour Dumpling),0,1,1,1
+khanom_la,Khanom La,0,0,0,1
+khanom_mo_kaeng,Khanom Mo Kaeng,0,0,0,1
+khanom_thong_muan,Khanom Thong Muan,0,0,0,1
+khanom_glib_lamduan,Khanom Glib Lamduan,0,0,0,1
+khanom_kho,Khanom Kho,0,0,0,1
+khanom_du,Khanom Du,0,0,0,1
+khanom_ya_nom,Khanom Ya Nom,0,0,0,1

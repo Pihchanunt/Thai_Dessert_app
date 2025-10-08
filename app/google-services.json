@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839354586585",
+    "project_id": "thaidessertapp",
+    "storage_bucket": "thaidessertapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839354586585:android:ec0b1907b29b8fe109b5c8",
+        "android_client_info": {
+          "package_name": "com.example.thai_dessert_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoDCKegJq4To51As2-Ox2O6IgEGqTnnyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
