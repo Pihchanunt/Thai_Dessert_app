@@ -27,7 +27,7 @@
         android:fontFamily="@font/afacad_semibold"
         android:padding="4dp"
         android:text="Log Out"
-        android:textSize="16dp"
+        android:textSize="16sp"
         app:backgroundTint="@null"
         app:layout_constraintBottom_toBottomOf="@+id/account_icon"
         app:layout_constraintEnd_toEndOf="parent"
