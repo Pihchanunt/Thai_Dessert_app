@@ -14,7 +14,9 @@
         android:layout_width="128dp"
         android:layout_height="128dp"
         android:background="@drawable/icon_account_coral"
-        android:contentDescription="@string/icon_button" />
+        android:contentDescription="@string/icon_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/buttonLogout"
