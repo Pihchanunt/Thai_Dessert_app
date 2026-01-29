@@ -2,8 +2,10 @@
 <p align="center">
 TUMKhANOM is a mobile application that helps users discover and cook traditional Thai desserts through an intuitive and interactive experience. The app allows users to browse desserts by region or view all available recipes from across Thailand.
 
+<p align="center">
 <img width="244.5" height="436" alt="image" src="https://github.com/user-attachments/assets/7a5624ee-f554-4fe1-b98f-d89e16597a82" />
- 
+</p>
+
 Users can filter desserts by region, allowing them to easily discover traditional sweets from different parts of Thailand. They can also save their favorite dishes to their personal account, creating a customized collection for quick access and future reference.
 
 <p align="center">
