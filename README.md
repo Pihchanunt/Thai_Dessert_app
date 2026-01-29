@@ -11,8 +11,12 @@ Users can filter desserts by region, allowing them to easily discover traditiona
 </p>
 
 Each dessert includes a detailed ingredient list to help users prepare accurately. With the integration of AI-generated recipes, TUMKhANOM provides personalized, step-by-step cooking instructions, making Thai dessert preparation more accessible, interactive, and engaging for users of all skill levels.
+
+<p align="center">
 <img width="244" height="435.5" alt="image" src="https://github.com/user-attachments/assets/30cacf4a-ce51-4c1d-b45b-0f85cc126842" />
 <img width="244" height="435.5" alt="image" src="https://github.com/user-attachments/assets/f1e68bb1-e77d-44d7-bc63-b5658908681e" />
+</p>
+
 This project combines cultural exploration with modern technology to create a smart and user-friendly recipe platform.
 
 </p> 
